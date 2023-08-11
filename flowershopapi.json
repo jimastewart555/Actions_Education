@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://sydney-app.15vfm5dzuhm7.us-south.codeengine.appdomain.cloud/"
+      "url": "https://application-dd.15vfm5dzuhm7.us-south.codeengine.appdomain.cloud/"
     }
   ],
   "paths": {
